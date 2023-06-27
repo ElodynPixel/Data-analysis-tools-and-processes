@@ -1,3 +1,19 @@
-# Data-analysis-tools-and-processes
-Working with different tools and processes to analyze data
-This can range from pandas to SQL. As part of the data science process one of the initial steps includes importing data from a source such as from your local drive,or from online (for example datasets/ data that are open source and available to the public). After the data has been imported it need to be prepped and analyzed. There are various tool and methods to acomplish this which is what I will learn in this project.
+# Datacore concepts
+
+Data formats can be divided into the following
+  Structured
+  Semi structure
+  Unstructured
+Options for data storage in files
+ Delimited text files
+			CSV (comma separated value)
+			TSV (Tab separated value)
+			Space delimited
+			Fixed-width 
+JavaScript Object Notation (JSON)
+			JSON is a ubiquitous format in which a hierarchical document schema is used to define data entities (objects) that have multiple attributes. Each attribute might be an object (or a collection of           objects); making JSON a flexible format that's good for both structured and semi-structured data.
+Extensive Markup Language (XML)
+Binary Large Object (BLOB)
+Optimized file formats
+  
+		
