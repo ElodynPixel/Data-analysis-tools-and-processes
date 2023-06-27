@@ -27,5 +27,16 @@ Non relational database
  	Document database
   	Column family database
    	Graph database
-    
 
+ ## characteristics of transactional data processing solutions
+	Atomicity
+ 	Consistency
+  	Isolation
+   	Durability
+
+## Describe characteristics of analytical data processing solutions
+	 1. Data files may be stored in a central data lake for analysis.
+	 2. An extract, transform, and load (ETL) process copies data from files and OLTP databases into a data warehouse that is optimized for read activity. 
+	 3. Data in the data warehouse may be aggregated and loaded into an online analytical processing (OLAP) model, or _cube_. 
+	 4. The data in the data lake, data warehouse, and analytical model can be queried to produce reports, visualizations, and dashboards.
+  
